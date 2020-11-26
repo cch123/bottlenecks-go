@@ -1,0 +1,1 @@
+# allgs cannot be collected
